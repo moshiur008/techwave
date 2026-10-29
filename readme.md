@@ -6,8 +6,8 @@ A fully responsive landing page for a fictional tech podcast, built from a Figma
 
 ## Screenshots
 
-| Desktop | Mobile |
-| :-----: | :----: |
+|                  Desktop                   |                  Mobile                  |
+| :----------------------------------------: | :--------------------------------------: |
 | ![Desktop view](./screenshots/desktop.png) | ![Mobile view](./screenshots/mobile.png) |
 
 ## Features
